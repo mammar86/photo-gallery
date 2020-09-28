@@ -1,0 +1,116 @@
+{
+  "aircrafts": {
+    "title": "Fighter Aircrafts",
+    "description": "Combat aircraft are designed to destroy enemy equipment using their own aircraft ordnance. Combat aircraft are typically developed and procured only by military forces",
+    "photos": [
+      {
+        "title": "F-35 Lightning II",
+        "imageURL": "https://thumbs-prod.si-cdn.com/wsTD1qRvHkn7wC2iKxcc7JB-uB4=/420x240/https://public-media.si-cdn.com/filer/bb/bf/bbbf463b-95c8-4252-9936-dc2f5d90d7e8/08c_am2019_haveaskedforbigger13j00446_39_live.jpg",
+        "sourceURL": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"
+      },
+      {
+        "title": "Sukhoi su-57",
+        "imageURL": "https://phototass2.cdnvideo.ru/width/1020_b9261fa1/tass/m2/en/uploads/i/20191225/1245341.jpg",
+        "sourceURL": "https://en.wikipedia.org/wiki/Sukhoi_Su-57"
+      },
+      {
+        "title": "F-16 Fighting Falcon",
+        "imageURL": "https://thediplomat.com/wp-content/uploads/2016/12/sizes/td-story-s-2/thediplomat_2016-12-21_21-58-54.jpg",
+        "sourceURL": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"
+      },
+      {
+        "title": "Rafale",
+        "imageURL": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dassault-rafale-b-of-the-french-air-force-royalty-free-image-1586806376.jpg?crop=0.891xw:0.891xh;0.0622xw,0.0803xh&resize=480:*",
+        "sourceURL": "https://en.wikipedia.org/wiki/Dassault_Rafale"
+      }
+    ]
+  },
+  "DestinationsUS": {
+    "title": "US must see places",
+    "description": "United States is made up of so many diverse destinations that it's hard to decide which places deserve the distinction of the best in America. Here are my must see places",
+    "photos": [
+      {
+        "title": "Grand Canyon",
+        "imageURL": "https://media.deseretdigital.com/file/aa89988589?crop%3Dtop%3A0%7Cleft%3A0%7Cwidth%3A640%7Cheight%3A420%26resize%3Dwidth%3A640%26order%3Dresize%2Ccrop%26c%3D14%26a%3D1dc0fe20",
+        "sourceURL": "https://www.nps.gov/grca/index.htm"
+      },
+      {
+        "title": "Bannack Ghost Town",
+        "imageURL": "https://render.fineartamerica.com/images/rendered/default/poster/10/8/break/images-medium/bannack-ghost-town-main-street--montana-daniel-hagerman.jpg",
+        "sourceURL": "http://bannack.org/"
+      },
+      {
+        "title": "Disney World",
+        "imageURL": "https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2020/01/skdfh84014-624x351.jpg",
+        "sourceURL": "https://disneyworld.disney.go.com/"
+      },
+      {
+        "title": "Maui",
+        "imageURL": "https://media.shermanstravel.com/Advice/thumb/large/952x460_hawaii_istock-jpg.jpg",
+        "sourceURL": "https://www.gohawaii.com/islands/maui/things-to-do"
+      }
+    ]
+  },
+  "EgyptMustGo": {
+    "title": "Egypt must see places",
+    "description": "Home of the ancient Pharaohs, Egypt is a dazzling destination of temples and tombs that wow all who visit. It's not all historic treasures, though. With vast tracts of desert, superb scuba diving, and the famed Nile River, there's something for everyone here.",
+    "photos": [
+      {
+        "title": "Pyramids of Giza",
+        "imageURL": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/09/sphinx-with-pyramids.jpg",
+        "sourceURL": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+      },
+      {
+        "title": "Luxor's Karnak Temple and the Valley of the Kings",
+        "imageURL": "https://www.goldenpyramid.travel/wp-content/uploads/2013/01/Karnak1.jpg",
+        "sourceURL": "https://en.wikipedia.org/wiki/Valley_of_the_Kings"
+      },
+      {
+        "title": "Siwa Oasis",
+        "imageURL": "https://kerdowney.com/content/uploads/2018/11/egyptian-oases-luxury-travel-ker-downey-siwa.jpg",
+        "sourceURL": "https://en.wikipedia.org/wiki/Siwa_Oasis"
+      },
+      {
+        "title": "St. Catherine's Monastery",
+        "imageURL": "https://www.planetware.com/photos-large/EGY/egypt-sinai-st-katherines-monastery.jpg",
+        "sourceURL": "https://en.wikipedia.org/wiki/Saint_Catherine%27s_Monastery"
+      },
+      {
+        "title": "Sharm El Sheikh",
+        "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/ed/sharm-el-sheikh.jpg?w=1100&h=600&s=1",
+        "sourceURL": "https://en.wikipedia.org/wiki/Sharm_El_Sheikh"
+      }
+    ]
+  },
+  "TopFoodList": {
+    "title": "Best non-american food in America",
+    "description": "The United States is a great melting pot and evidence of our multicultural roots can often be found in the food we eat.",
+    "photos": [
+      {
+        "title": "Sushi",
+        "imageURL": "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/00/a0000370/img/basic/a0000370_main.jpg?20200702132805&q=80&rw=750&rh=536",
+        "sourceURL": "https://en.wikipedia.org/wiki/Sushi"
+      },
+      {
+        "title": "Tacos",
+        "imageURL": "https://cdn.vox-cdn.com/thumbor/iZiL1n5bEOtNn0jsmgBjRH5j6fA=/0x0:1000x667/1200x900/filters:focal(499x281:659x441)/cdn.vox-cdn.com/uploads/chorus_image/image/66741193/o.0.jpg",
+        "sourceURL": "hhttps://en.wikipedia.org/wiki/Taco"
+      },
+      {
+        "title": "Chicken Tikka Masala",
+        "imageURL": "https://www.thespruceeats.com/thmb/oZzyz_ozFovEJP5jcERptTekg4c=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-842135108-59ed890f685fbe0011d766e8.jpg",
+        "sourceURL": "https://twosleevers.com/instant-pot-butter-chicken/"
+      },
+      {
+        "title": "Butter Chicken",
+        "imageURL": "https://www.blueosa.com/wp-content/uploads/2020/07/butter-chicken-Chicken-Makhani.jpg",
+        "sourceURL": "Saint Catherine's Monastery"
+      },
+      {
+        "title": "Tom Yum Soup",
+        "imageURL": "https://ucarecdn.com/e5d9b006-e8b8-4b6c-b6d0-bc63b3b851df/-/scale_crop/800x600/center/1342d429aef4b8c155a520927ea944b7.jpg",
+        "sourceURL": "https://www.eatingthaifood.com/tom-yum-soup-recipe/"
+      }
+    ]
+  }
+}
